@@ -1,0 +1,8 @@
+@media (max-width:991px) {
+    .container-fluid{
+        margin-inline: 30px !important;  
+    }
+    .fa-bars{
+        display: block!important;
+      }
+}
